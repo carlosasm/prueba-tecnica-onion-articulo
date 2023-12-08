@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "PruebaTecnica.Service.Rest": {
+      "commandName": "Project",
+      "launchUrl": "swagger",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:61413;http://localhost:61414"
+    }
+  }
+}

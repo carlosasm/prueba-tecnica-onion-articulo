@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\csala\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\csala\\.nuget\\packages"
+    ]
+  }
+}

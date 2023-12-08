@@ -1,0 +1,10 @@
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.Model\bin\Debug\netcoreapp3.1\PruebaTecnica.Model.deps.json
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.Model\bin\Debug\netcoreapp3.1\PruebaTecnica.Model.dll
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.Model\bin\Debug\netcoreapp3.1\PruebaTecnica.Model.pdb
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.Model\obj\Debug\netcoreapp3.1\PruebaTecnica.Model.csproj.AssemblyReference.cache
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.Model\obj\Debug\netcoreapp3.1\PruebaTecnica.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.Model\obj\Debug\netcoreapp3.1\PruebaTecnica.Model.AssemblyInfoInputs.cache
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.Model\obj\Debug\netcoreapp3.1\PruebaTecnica.Model.AssemblyInfo.cs
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.Model\obj\Debug\netcoreapp3.1\PruebaTecnica.Model.csproj.CoreCompileInputs.cache
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.Model\obj\Debug\netcoreapp3.1\PruebaTecnica.Model.dll
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.Model\obj\Debug\netcoreapp3.1\PruebaTecnica.Model.pdb

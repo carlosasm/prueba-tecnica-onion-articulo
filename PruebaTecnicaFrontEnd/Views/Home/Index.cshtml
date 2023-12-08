@@ -1,0 +1,63 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Prueba Técnica GMG</h1>
+    @*<p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
+        <p><a href="https://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>*@
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Artículos</h2>
+        <div>
+            <table cellpadding="0" cellspacing="0" border="0" class="table table-striped table-bordered display responsive nowrap" id="TablaListado" width="100%">
+                <thead>
+                    <tr>
+                        <th width="10%" data-priority="1">Sku</th>
+                        <th width="20%" data-priority="2">Descripción</th>
+                        <th width="20%" data-priority="3">Marca</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+
+    </div>
+
+</div>
+
+<script src="~/Scripts/jquery-3.3.1.min.js"></script>
+
+<script type="text/javascript">
+
+    $(document).ready(function () {
+        listarArticulos();
+    });
+
+    var listarArticulos = function () {
+        $.ajax({
+            type: "POST",
+            url: '@Url.Action("getArticulos", "Home")',
+            datatype: "json",
+            cache: false,
+            success: function (data) {
+                console.log(data)
+                var $filas='';
+                $.each(data, function(i ,item)
+                {
+                    var $Sku= '<td class=".edit" title="">'+item.Sku+'</td>';
+                    var $Descripcion = '<td class=".edit" title="">' + item.Descripcion + '</td>';
+                    var $Marca = '<td class=".edit" title="">' + item.Marca.Descripcion + '</td>';
+                    $filas+='<tr class="odd" role="row">';
+                    $filas += $Sku + $Descripcion + $Marca;
+ 
+                });
+                $("#TablaListado tbody").html($filas);
+
+            }
+        });
+    };
+
+</script>

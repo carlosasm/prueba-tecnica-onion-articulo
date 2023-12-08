@@ -1,0 +1,17 @@
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.BusinessLogic\bin\Debug\netcoreapp3.1\PruebaTecnica.BusinessLogic.deps.json
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.BusinessLogic\bin\Debug\netcoreapp3.1\PruebaTecnica.BusinessLogic.dll
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.BusinessLogic\bin\Debug\netcoreapp3.1\PruebaTecnica.BusinessLogic.pdb
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.BusinessLogic\bin\Debug\netcoreapp3.1\PruebaTecnica.BusinessLogic.Interface.dll
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.BusinessLogic\bin\Debug\netcoreapp3.1\PruebaTecnica.DataAccess.Interface.dll
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.BusinessLogic\bin\Debug\netcoreapp3.1\PruebaTecnica.Model.dll
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.BusinessLogic\bin\Debug\netcoreapp3.1\PruebaTecnica.BusinessLogic.Interface.pdb
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.BusinessLogic\bin\Debug\netcoreapp3.1\PruebaTecnica.DataAccess.Interface.pdb
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.BusinessLogic\bin\Debug\netcoreapp3.1\PruebaTecnica.Model.pdb
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.BusinessLogic\obj\Debug\netcoreapp3.1\PruebaTecnica.BusinessLogic.csproj.AssemblyReference.cache
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.BusinessLogic\obj\Debug\netcoreapp3.1\PruebaTecnica.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.BusinessLogic\obj\Debug\netcoreapp3.1\PruebaTecnica.BusinessLogic.AssemblyInfoInputs.cache
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.BusinessLogic\obj\Debug\netcoreapp3.1\PruebaTecnica.BusinessLogic.AssemblyInfo.cs
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.BusinessLogic\obj\Debug\netcoreapp3.1\PruebaTecnica.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.BusinessLogic\obj\Debug\netcoreapp3.1\PruebaTecnica.BusinessLogic.csproj.CopyComplete
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.BusinessLogic\obj\Debug\netcoreapp3.1\PruebaTecnica.BusinessLogic.dll
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.BusinessLogic\obj\Debug\netcoreapp3.1\PruebaTecnica.BusinessLogic.pdb

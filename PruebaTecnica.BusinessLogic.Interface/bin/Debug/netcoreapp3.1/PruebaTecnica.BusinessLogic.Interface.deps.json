@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PruebaTecnica.BusinessLogic.Interface/1.0.0": {
+        "dependencies": {
+          "PruebaTecnica.Model": "1.0.0"
+        },
+        "runtime": {
+          "PruebaTecnica.BusinessLogic.Interface.dll": {}
+        }
+      },
+      "PruebaTecnica.Model/1.0.0": {
+        "runtime": {
+          "PruebaTecnica.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PruebaTecnica.BusinessLogic.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PruebaTecnica.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

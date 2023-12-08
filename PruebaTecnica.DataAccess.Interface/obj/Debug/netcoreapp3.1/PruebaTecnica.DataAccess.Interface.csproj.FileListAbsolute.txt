@@ -1,0 +1,13 @@
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.DataAccess.Interface\bin\Debug\netcoreapp3.1\PruebaTecnica.DataAccess.Interface.deps.json
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.DataAccess.Interface\bin\Debug\netcoreapp3.1\PruebaTecnica.DataAccess.Interface.dll
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.DataAccess.Interface\bin\Debug\netcoreapp3.1\PruebaTecnica.DataAccess.Interface.pdb
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.DataAccess.Interface\bin\Debug\netcoreapp3.1\PruebaTecnica.Model.dll
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.DataAccess.Interface\bin\Debug\netcoreapp3.1\PruebaTecnica.Model.pdb
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.DataAccess.Interface\obj\Debug\netcoreapp3.1\PruebaTecnica.DataAccess.Interface.csproj.AssemblyReference.cache
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.DataAccess.Interface\obj\Debug\netcoreapp3.1\PruebaTecnica.DataAccess.Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.DataAccess.Interface\obj\Debug\netcoreapp3.1\PruebaTecnica.DataAccess.Interface.AssemblyInfoInputs.cache
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.DataAccess.Interface\obj\Debug\netcoreapp3.1\PruebaTecnica.DataAccess.Interface.AssemblyInfo.cs
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.DataAccess.Interface\obj\Debug\netcoreapp3.1\PruebaTecnica.DataAccess.Interface.csproj.CoreCompileInputs.cache
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.DataAccess.Interface\obj\Debug\netcoreapp3.1\PruebaTecnica.DataAccess.Interface.csproj.CopyComplete
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.DataAccess.Interface\obj\Debug\netcoreapp3.1\PruebaTecnica.DataAccess.Interface.dll
+D:\GPI\PruebaFinal\PruebaTecnica\PruebaTecnica.DataAccess.Interface\obj\Debug\netcoreapp3.1\PruebaTecnica.DataAccess.Interface.pdb

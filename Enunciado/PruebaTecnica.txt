@@ -1,0 +1,10 @@
+- ¿Explique brevemente en sus propias palabras que entiendo por el termino microservicios?
+
+- ¿Que es un ORM? ¿Ha utiliado ORMs? ¿Cuales? 
+
+Practica
+- Arreglar los errores existentes en el servicio de articulos y estructurar el servicio considerando los principios de SOLID.
+- Listar en la tabla HTML de la vista "Index" todos los articulos existentes en la BD (utilizando el procedimiento almacenado) consumiendo el WCF de Articulos. 
+- Agregar el campo "cantidad" en la tabla Articulos (Base de Datos) y mostrarlo en la tabla HTML de la vista "Index".		
+
+

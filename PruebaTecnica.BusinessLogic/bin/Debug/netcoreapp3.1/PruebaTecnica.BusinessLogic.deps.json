@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PruebaTecnica.BusinessLogic/1.0.0": {
+        "dependencies": {
+          "PruebaTecnica.BusinessLogic.Interface": "1.0.0",
+          "PruebaTecnica.DataAccess.Interface": "1.0.0",
+          "PruebaTecnica.Model": "1.0.0"
+        },
+        "runtime": {
+          "PruebaTecnica.BusinessLogic.dll": {}
+        }
+      },
+      "PruebaTecnica.BusinessLogic.Interface/1.0.0": {
+        "dependencies": {
+          "PruebaTecnica.Model": "1.0.0"
+        },
+        "runtime": {
+          "PruebaTecnica.BusinessLogic.Interface.dll": {}
+        }
+      },
+      "PruebaTecnica.DataAccess.Interface/1.0.0": {
+        "dependencies": {
+          "PruebaTecnica.Model": "1.0.0"
+        },
+        "runtime": {
+          "PruebaTecnica.DataAccess.Interface.dll": {}
+        }
+      },
+      "PruebaTecnica.Model/1.0.0": {
+        "runtime": {
+          "PruebaTecnica.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PruebaTecnica.BusinessLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PruebaTecnica.BusinessLogic.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PruebaTecnica.DataAccess.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PruebaTecnica.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
